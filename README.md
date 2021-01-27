@@ -9,7 +9,7 @@ Upload rule/rule-set files into /promote corresponding path.
 <br><br>
 <b>Build test in Jenkins:</b>
 <br>
-https://jenkins-spmm-automation.apps.ocp4.prod.psi.redhat.com/job/Commonjava-manual/job/promotion-rule-format-test/
+OCP4 Jenkins job: promotion-rule-format-test
 <br><br>
 <b>Format:</b>
 <br>
