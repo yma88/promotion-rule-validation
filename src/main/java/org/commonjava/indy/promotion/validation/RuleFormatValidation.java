@@ -9,8 +9,8 @@ import java.io.IOException;
 
 public class RuleFormatValidation {
     public static void main( String[] args ) {
-        File rulesPath = new File( "src/main/data/rules/" );
-        File ruleSetsPath = new File( "src/main/data/rule-sets/" );
+        File rulesPath = new File( "promote/rules/" );
+        File ruleSetsPath = new File( "promote/rule-sets/" );
 
         File[] rules = rulesPath.listFiles();
         File[] ruleSets = ruleSetsPath.listFiles();
